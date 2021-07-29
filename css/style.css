@@ -10,9 +10,13 @@ body{
     font-family:'Poppins', sans-serif !important;
     padding:10px 30px !important;
 }
+
 .customp{
     color:#E76F51 ;
 }
 .gray-fil{
     filter: grayscale(100%);
+}
+.Purchase-link{
+    color: white;
 }
